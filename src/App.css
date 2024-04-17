@@ -1,0 +1,11 @@
+#screen{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+#screen button{
+  width: 90px;
+  color: white;
+  font-weight: bold;
+  }
